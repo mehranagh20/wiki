@@ -1,11 +1,6 @@
 # Summary
 
-### [قوانین](/constitution/README.md)
-
-
-
-* [مرام نامه](/constitution/manifesto.md)
-
-
-
+## قوانین
+* [معرفی](README.md)
+* [مرام نامه](constitution/manifesto.md)
 
