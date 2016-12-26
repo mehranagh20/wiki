@@ -1,7 +1,7 @@
 # Summary
 
-* \[قوانین\]\(constitution\)
-  * \[مرام نامه\]\(constitution/manifesto.md\)
+* [/constitution](/constitution "قوانین")
+  * [/constitution/manifesto.md](/constitution/manifesto.md "مرام نامه")
 
 
 
