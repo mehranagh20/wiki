@@ -1,8 +1,10 @@
 # Summary
 
-* \[قوانین\]\(constitution\)
-  * \[مرام نامه\]\(constitution/manifesto.md\)
+### [قوانین](/constitution/README.md)
 
+
+
+* [مرام نامه](/constitution/manifesto.md)
 
 
 
